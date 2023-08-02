@@ -1,16 +1,11 @@
-### Hi there 👋
-
-<!--
-**Nemuri404/Nemuri404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div id="header" align="center">
+  <img src="https://github.com/Nemuri404/Nemuri404/blob/aa898300f95df7ecb025523836405fbccea34aec/assets/img/icon.png" width="100"/>
+  <div id="badges">
+    <a href="https://www.youtube.com/channel/@Nemuri404">
+      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    </a>
+    <a href="https://modrinth.com/user/Nemuri">
+      <img src="https://img.shields.io/badge/Modrinth-green?style=for-the-badge&logo=modrinth&logoColor=white" alt="Modrinth Badge"/>
+    </a>
+  </div>
+</div>
