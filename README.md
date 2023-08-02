@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/Nemuri404/Nemuri404/blob/aa898300f95df7ecb025523836405fbccea34aec/assets/img/icon.png" width="100"/>
+  <img src="https://github.com/Nemuri404/Nemuri404/blob/aa898300f95df7ecb025523836405fbccea34aec/assets/img/icon.png" width="256"/>
   <div id="badges">
     <a href="https://www.youtube.com/channel/@Nemuri404">
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
