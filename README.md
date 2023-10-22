@@ -1,5 +1,4 @@
 <div id="header" align="center">
-  <a href="https://modrinth.com/mod/arm-guards"><img src="https://cdn-raw.modrinth.com/data/HcPQomcd/images/b204f2f3e5550bbd505bc085c2251cfaadd57ddc.png" width="480"/></a>
   <div id="badges"><br>
     <a href="https://modrinth.com/user/Nemuri">
       <img src="https://img.shields.io/badge/Modrinth-green?style=for-the-badge&logo=modrinth&logoColor=white"/>
